@@ -6,6 +6,10 @@ import { images } from '../../constants';
 import './Projects.scss'
 
   const works=[
+    {title: 'Student information', description:'Student information obtained from an API', 
+    projectLink:'https://elizabeth-student-api.netlify.app',
+    codeLink:'https://github.com/Lizzy6820/student_API',imgUrl:images.student_api,technologies: 
+    'Technologies: React, Javascript, Axios'},
    
     {title: 'E-commerce', description:'E-commerce store for a black owned business', projectLink:'https://leldia-beauty.netlify.app',
     codeLink:'https://github.com/Lizzy6820/leldia_beauty',imgUrl:images.leldia_ecommerce,technologies: 

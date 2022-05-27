@@ -8,9 +8,11 @@ import { images } from '../../constants';
 const skillCard=[
     {name: 'React', imgUrl:images.react },
    {name: 'Javascript',  imgUrl:images.javascript },
+   {name: 'Python',  imgUrl:images.python },
    {name: 'MongoDB',  imgUrl:images.mongodb },
    {name: 'Redux',  imgUrl:images.redux },
    {name: 'NodeJS',  imgUrl:images.node },
+   {name: 'MySQL',  imgUrl:images.mysql },
    {name: 'Sass',  imgUrl:images.sass },
    {name: 'Html', imgUrl:images.html },
    {name: 'CSS', imgUrl:images.css },

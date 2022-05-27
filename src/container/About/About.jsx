@@ -22,9 +22,14 @@ const About = () => {
           </motion.div>
     
         <div className='text'>
-          <p>Frontend MERN web developer specializing in Javascript technologies,  across 
+          <p>
+            Frontend MERN web developer specializing in Javascript technologies,across 
             the whole stack (Node.js, React,Express and Mongo). 
-            Experience in building web applications with backend API systems..</p>
+            Experience in building web applications with backend API systems.</p>
+           <p> Deep passion for data analysis and visualisation using MySql and Tableau
+            to represent data in clear projections that can be easily understood by clients.
+            
+            </p>
            
         </div>
     </div>

@@ -1,5 +1,10 @@
 .container {
 display:flex;
+@media screen and (min-width: 2000px) {
+ display:none;
+  
+}
+
 }
 
 .app__about {
@@ -27,6 +32,7 @@ display:flex;
     width: 80%;
     @media screen and (min-width: 2000px) {
       font-size: 1.75rem;
+      
     }
   
  }

@@ -21,6 +21,9 @@ import mongodb from '../assets/mongodb.png';
 import leldia_ecommerce from '../assets/leldia_ecommerce.png';
 import maid_services from '../assets/maid_services.png';
 import blog from '../assets/blog.png';
+import student_api from '../assets/student_api.png';
+import mysql from '../assets/mysql.png';
+
 
 import about01 from '../assets/about01.png';
 import about02 from '../assets/about02.png';
@@ -68,5 +71,7 @@ export default {
   circle1,
   leldia_ecommerce,
   maid_services,
-  blog
+  blog,
+  student_api,
+  mysql
 };

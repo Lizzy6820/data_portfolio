@@ -16,6 +16,9 @@
       flex-direction: column;
     }
   }
+  h2{
+    margin-left: 50px;
+  }
   
   .app__skills-list {
     flex: 1;
@@ -24,8 +27,8 @@
     justify-content: flex-start;
     align-items: center;
   
-    margin-right: 5rem;
-    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-left: 0.5rem;
   
     @media screen and (max-width: 900px) {
       margin-right: 0;
