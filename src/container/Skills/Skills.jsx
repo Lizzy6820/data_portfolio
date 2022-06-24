@@ -6,16 +6,17 @@ import { AppWrap, MotionWrap } from '../../wrapper';
 import { images } from '../../constants';
 
 const skillCard=[
-    {name: 'React', imgUrl:images.react },
-   {name: 'Javascript',  imgUrl:images.javascript },
-   {name: 'Python',  imgUrl:images.python },
-   {name: 'MongoDB',  imgUrl:images.mongodb },
-   {name: 'Redux',  imgUrl:images.redux },
-   {name: 'NodeJS',  imgUrl:images.node },
    {name: 'MySQL',  imgUrl:images.mysql },
-   {name: 'Sass',  imgUrl:images.sass },
+   {name: 'Python',  imgUrl:images.python },
+   {name: 'MongoDB',  imgUrl:images.MongoDB },
+   {name: 'Tableau',  imgUrl:images.tableau },
+   {name: 'PowerBI',  imgUrl:images.power_bi },
+   {name: 'Javascript',  imgUrl:images.javascript },
    {name: 'Html', imgUrl:images.html },
    {name: 'CSS', imgUrl:images.css },
+   {name: 'Sass',  imgUrl:images.sass },
+
+
 ]
 
 const Skills = () => {

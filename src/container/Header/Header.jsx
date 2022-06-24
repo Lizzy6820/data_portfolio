@@ -25,15 +25,14 @@ const Header = () => {
       className="app__header-info">    
         <div className="app__header-badge">
         <div className="badge-cmp app__flex">
-          <span>🖥️</span>
+          <span>📈 📊</span>
           <div style={{ marginLeft: 20 }}>
             <p className="p-text">Hello! It's</p>
             <h1 className="head-text">Elizabeth Lwetabe</h1>
           </div>
           </div>
           <div className="tag-cmp app__flex"> 
-          <p className="p-text">Frontend</p>
-          <p className="p-text"> MERN Web Developer</p>
+          <p className="p1-text bold-text">Data Analyst</p>
           </div>
         </div>
             </motion.div>
@@ -46,7 +45,7 @@ const Header = () => {
       <motion.div variants={scaleVariants}
       whileInView={scaleVariants.whileInView}
       className="app__header-circles" >
-       {[images.react, images.node, images.redux, images.mongodb].map((circle, index) => (
+       {[images.python, images.tableau, images.mysql, images.power_bi].map((circle, index) => (
         <div className="circle-cmp app__flex" key={`circle-${index}`}>
           <img src={circle} alt="profile_bg" />
         </div>

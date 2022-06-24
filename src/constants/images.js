@@ -17,12 +17,21 @@ import redux from '../assets/redux.png';
 import sass from '../assets/sass.png';
 import typescript from '../assets/typescript.png';
 import vue from '../assets/vue.png';
-import mongodb from '../assets/mongodb.png';
+import MongoDB from '../assets/MongoDB.png';
 import leldia_ecommerce from '../assets/leldia_ecommerce.png';
 import maid_services from '../assets/maid_services.png';
 import blog from '../assets/blog.png';
 import student_api from '../assets/student_api.png';
 import mysql from '../assets/mysql.png';
+import tableau from '../assets/tableau.png';
+import power_bi from '../assets/power_bi.png';
+import product_june from '../assets/product_june.png';
+import movies_june from '../assets/movies_june.png';
+import police_june from '../assets/police_june.png';
+import webscraping from '../assets/webscraping.png';
+import customers1_dashboard from '../assets/customers1_dashboard.png';
+import data_analyst from '../assets/data_analyst.jpg';
+import burlington from '../assets/burlington.png'
 
 
 import about01 from '../assets/about01.png';
@@ -60,7 +69,7 @@ export default {
   react,
   redux,
   sass,
-  mongodb,
+  MongoDB,
   typescript,
   vue,
   about01,
@@ -73,5 +82,14 @@ export default {
   maid_services,
   blog,
   student_api,
-  mysql
+  mysql,
+  power_bi,
+  tableau,
+  product_june,
+  movies_june,
+  police_june,
+  webscraping,
+  customers1_dashboard,
+  data_analyst,
+  burlington
 };
